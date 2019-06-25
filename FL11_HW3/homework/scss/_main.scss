@@ -57,9 +57,10 @@
     p.header_text {
       font-family: $font1;
       font-size: 16pt;
-      margin-left: 142px;
+      margin-left: 185px;
       margin-top: -138px;
       color: $color-txt;
+      width: 700px;
     }
     @mixin button {
       .header_button {
